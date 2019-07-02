@@ -1,0 +1,57 @@
+.Element-A{
+background-color: white;
+padding-top: 1em;
+padding-bottom: 0.5em;
+padding-right: 1em;
+text-align: right;
+}
+
+.Element-B{
+    background-color: white;
+    justify-content: flex-end;
+    padding-top: 140px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.Element-C{
+
+    text-align: center;
+
+}
+
+.Element-D{
+
+    text-align: center;
+
+
+}
+
+.Search_Engine{
+    height: 4em;
+}
+
+.RG{
+    border-radius : 10%;
+
+}
+
+
+.Footer{
+    Background-color: rgb(242, 242, 242);
+    word-spacing: 20px;
+    Vertical-align: bottom;
+    margin-top: 500px;
+}
+
+.Container{
+        display:inline;
+}
+
+
+
+.F1, .F2, .F3, .F4, .F5, .F6, .F7, .F8{
+    display:inline;
+}
+
+
